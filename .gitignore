@@ -1,0 +1,78 @@
+# ─── IDE / OS ─────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ─── GitHub / CI ───────────────────────────────────────────────────────────────
+.github/
+.github/agents/
+
+# ─── Python cache & build artefacts ───────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+Urc.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Virtual environments ──────────────────────────────────────────────────────
+venv/
+myenv/
+.env/
+env/
+
+# ─── Test / coverage ───────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+coverage.xml
+tests/
+
+# ─── Jupyter artefacts ─────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ─── Binary / large data files ────────────────────────────────────────────────
+*.pickle
+*.csv
+*.pdf
+*.pptx
+*.png
+*.html
+
+# ─── Backup & copy files (never version-controlled) ───────────────────────────
+degradation_toolbox/backup/
+master_arbeit_Di/backup/
+master_arbeit_Di/ground_truth/backp/
+instability_demo/utils/backup_instability.py
+# "copy" naming convention files
+**/Comparison_tools_copy.py
+**/* copy.py
+**/*_copy.py
+"master_arbeit_Di/utils/stability_evaluation copy.py"
+
+# ─── Generated result folders ─────────────────────────────────────────────────
+data/
+archive/
+results/
+result/
+report/
+Lennard_results/
+Linz_M4/
+
+
+# ─── Data / output directories ─────────────────────────────────────────────────
+
+explore_data/output/
+master_arbeit_Di/explore_data/
+instability_demo/
+
+# ─── Documentation build (generated; source stays in docs/) ───────────────────
+docs/
+docs
+
+# ─── Notebook checkpoints ──────────────────────────────────────────────────────
+**/.ipynb_checkpoints/
