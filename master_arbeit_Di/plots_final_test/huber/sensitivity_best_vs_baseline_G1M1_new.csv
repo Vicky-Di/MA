@@ -1,0 +1,4 @@
+Iref,Baseline RMSE (mV),Best ε,Best α,Best RMSE (mV),ΔRMSE vs Baseline (mV),Baseline Outlier (%),Best Outlier (%),ΔOutlier vs Baseline (%)
+0.3,18.89,1.35,0.0,17.75,-1.14,0.55,0.55,0.0
+1.0,18.87,2.0,0.0,18.85,-0.02,0.91,0.83,-0.08
+1.48,55.14,1000000.0,0.0,55.14,0.0,1.46,1.46,0.0

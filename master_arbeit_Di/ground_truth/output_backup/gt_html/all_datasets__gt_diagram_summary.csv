@@ -1,0 +1,5 @@
+﻿dataset_name,dataset_path,label,iref,tref,ohref,i_range,t_range,oh_range,n_gt_points,html_file,csv_file,json_file
+G1M1_new,explore_data\G1M1_new.parquet,g1m1_low_load,0.3,58.0,11.0,"[0.28, 0.32]","[56, 60]","[1.6, 76]",388019,first_try_readme\ground_truth\gt_html\G1M1_new__gt_diagram__g1m1_low_load__iref_0p3__tref_58__ohref_11.html,first_try_readme\ground_truth\gt_html\G1M1_new__gt_diagram__g1m1_low_load__iref_0p3__tref_58__ohref_11.csv,
+G1M1_new,explore_data\G1M1_new.parquet,g1m1_mid_load,1.0,58.0,100.0,"[0.98, 1.02]","[57, 59]","[14, 500]",109407,first_try_readme\ground_truth\gt_html\G1M1_new__gt_diagram__g1m1_mid_load__iref_1__tref_58__ohref_100.html,first_try_readme\ground_truth\gt_html\G1M1_new__gt_diagram__g1m1_mid_load__iref_1__tref_58__ohref_100.csv,
+G1M1_new,explore_data\G1M1_new.parquet,g1m1_high_load,1.48,57.0,100.0,"[1.46, 1.5]","[56, 58]","[14, 500]",4074,first_try_readme\ground_truth\gt_html\G1M1_new__gt_diagram__g1m1_high_load__iref_1p48__tref_57__ohref_100.html,first_try_readme\ground_truth\gt_html\G1M1_new__gt_diagram__g1m1_high_load__iref_1p48__tref_57__ohref_100.csv,
+

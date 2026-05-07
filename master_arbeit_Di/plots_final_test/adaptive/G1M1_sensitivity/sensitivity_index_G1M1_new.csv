@@ -1,0 +1,25 @@
+Parameter,Metric,CV (%),Min,Max,Range
+initial_window_size,Data Points (n),53.82,262.0,974.0,712.0
+initial_window_size,RMSE (mV),5.99,26.984,30.828,3.844
+initial_window_size,Mono (Rank) [0-1],1.89,0.913,0.95,0.037
+initial_window_size,Slope Sigma (uV/h),37.03,0.073,0.176,0.104
+initial_window_size,Outlier (%),25.63,0.493,0.957,0.463
+initial_window_size,GT RMSE (mV),5.37,30.923,34.592,3.669
+initial_window_size,GT MAE (mV),6.11,22.46,25.405,2.945
+initial_window_size,GT Valid Intervals,52.91,247.0,902.667,655.667
+fixed_freshness_threshold,Data Points (n),33.19,413.0,992.0,579.0
+fixed_freshness_threshold,RMSE (mV),3.2,26.616,28.768,2.152
+fixed_freshness_threshold,Mono (Rank) [0-1],1.41,0.92,0.95,0.03
+fixed_freshness_threshold,Slope Sigma (uV/h),27.47,0.07,0.13,0.06
+fixed_freshness_threshold,Outlier (%),18.52,0.563,0.903,0.34
+fixed_freshness_threshold,GT RMSE (mV),4.39,30.557,33.646,3.089
+fixed_freshness_threshold,GT MAE (mV),5.46,22.408,25.108,2.7
+fixed_freshness_threshold,GT Valid Intervals,32.63,389.667,920.0,530.333
+decay_rate,Data Points (n),0.07,775.0,776.0,1.0
+decay_rate,RMSE (mV),1.47,26.789,27.792,1.003
+decay_rate,Mono (Rank) [0-1],0.05,0.949,0.95,0.001
+decay_rate,Slope Sigma (uV/h),1.65,0.079,0.083,0.003
+decay_rate,Outlier (%),5.2,0.817,0.943,0.127
+decay_rate,GT RMSE (mV),1.45,30.644,31.79,1.145
+decay_rate,GT MAE (mV),0.32,22.406,22.603,0.197
+decay_rate,GT Valid Intervals,0.08,720.333,721.333,1.0

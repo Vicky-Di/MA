@@ -1,0 +1,5 @@
+﻿dataset_name,dataset_path,label,iref,tref,ohref,i_range,t_range,oh_range,n_gt_points,html_file,csv_file,json_file
+G6M2,explore_data\G6M2.parquet,g6m2_low_load,0.28,57.0,10.0,"[0.26, 0.3]","[53, 60]","[2, 43]",30218,first_try_readme\ground_truth\gt_html\G6M2__gt_diagram__g6m2_low_load__iref_0p28__tref_57__ohref_10.html,first_try_readme\ground_truth\gt_html\G6M2__gt_diagram__g6m2_low_load__iref_0p28__tref_57__ohref_10.csv,
+G6M2,explore_data\G6M2.parquet,g6m2_mid_load,1.0,58.0,33.0,"[0.98, 1.02]","[57, 60]","[7, 142]",597,first_try_readme\ground_truth\gt_html\G6M2__gt_diagram__g6m2_mid_load__iref_1__tref_58__ohref_33.html,first_try_readme\ground_truth\gt_html\G6M2__gt_diagram__g6m2_mid_load__iref_1__tref_58__ohref_33.csv,
+G6M2,explore_data\G6M2.parquet,g6m2_high_load,1.31,58.0,18.0,"[1.29, 1.33]","[56, 59.5]","[4, 78]",504,first_try_readme\ground_truth\gt_html\G6M2__gt_diagram__g6m2_high_load__iref_1p31__tref_58__ohref_18.html,first_try_readme\ground_truth\gt_html\G6M2__gt_diagram__g6m2_high_load__iref_1p31__tref_58__ohref_18.csv,
+

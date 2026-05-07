@@ -37,22 +37,10 @@ tests/
 
 # ─── Binary / large data files ────────────────────────────────────────────────
 *.pickle
-*.csv
-*.pdf
-*.pptx
-*.png
-*.html
 
 # ─── Backup & copy files (never version-controlled) ───────────────────────────
-degradation_toolbox/backup/
+*.html
 master_arbeit_Di/backup/
-master_arbeit_Di/ground_truth/backp/
-instability_demo/utils/backup_instability.py
-# "copy" naming convention files
-**/Comparison_tools_copy.py
-**/* copy.py
-**/*_copy.py
-"master_arbeit_Di/utils/stability_evaluation copy.py"
 
 # ─── Generated result folders ─────────────────────────────────────────────────
 data/
@@ -66,13 +54,9 @@ Linz_M4/
 
 # ─── Data / output directories ─────────────────────────────────────────────────
 
-explore_data/output/
-master_arbeit_Di/explore_data/
-instability_demo/
 
 # ─── Documentation build (generated; source stays in docs/) ───────────────────
-docs/
-docs
+
 
 # ─── Notebook checkpoints ──────────────────────────────────────────────────────
 **/.ipynb_checkpoints/
